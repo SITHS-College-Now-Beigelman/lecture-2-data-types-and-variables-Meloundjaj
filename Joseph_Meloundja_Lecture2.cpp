@@ -13,9 +13,9 @@ int main ()
     double doublenum = 2.67;
     char charnum = 'A';
     char charymun = 't';
-    char charynum2 = 'u';
+    char charynum2 = 'u'; //ascii
     bool mybooly = false;
-    string stringy = "i love wingstop";
+    string stringy = "i love wingstop"; // i really want wingstop 
     int inches;
     inches = 100;
     cout << inches << "  inch(es) = ";
