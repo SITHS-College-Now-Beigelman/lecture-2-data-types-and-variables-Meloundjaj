@@ -16,6 +16,8 @@ int main ()
     char charynum2 = 'u'; //ascii
     bool mybooly = false;
     string stringy = "i love wingstop"; // i really want wingstop 
+    
+    
     int inches;
     inches = 100;
     cout << inches << "  inch(es) = ";
@@ -27,4 +29,12 @@ int main ()
     cout << "6 / (4 + 3.9) = " << 6 / (4 + 3.9) << endl; 
     cout << "5.4 * 2 - (13.6 + 18 /2) = " << 5.4 * 2 - (13.6 + 18 /2) << endl;
     return 0;
+   
+    //output 
+   
+    /*100  inch(es) = 8 feet (foot) and 4 inch(es) 
+      t > u = 0
+    2 + 3.5 = 5.5
+    6 / (4 + 3.9) = 0.759494
+    5.4 * 2 - (13.6 + 18 /2) = -11.8*/
 }
